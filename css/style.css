@@ -892,6 +892,8 @@ footer .container .row .links a:hover{
 }
 footer .bottom_footer{
     background: var(--bootom-footer);
+    display: flex;
+    padding-left: 15%;
 }
 footer .bottom_footer .container{
     padding: 20px 0;
